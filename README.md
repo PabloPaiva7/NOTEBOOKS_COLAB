@@ -34,6 +34,7 @@ Conversões para permitir análise quantitativa (como tratar %).
 Utilizando o pandasql, foram executadas várias consultas SQL sobre o DataFrame para obter insights importantes:
 
 Exemplos de consultas realizadas:
+
 🔝 Top 10 maiores descontos aplicados
 
 📈 Contratos com percentual de desconto entre 70% e 80%
